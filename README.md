@@ -40,6 +40,17 @@ Fullstack React + Node.js application demonstrating [@x-skills-for-ai/react](htt
 └── deploy/                 # Frontend build artifacts
 ```
 
+## 📸 Screenshots
+
+### Counter View (Default Landing Page)
+![Counter View](docs/counter-view.png)
+
+### Grok Realtime Voice Agent Panel
+![Realtime Chat Panel](docs/realtime-chat-panel.png)
+
+### Full App Overview
+![Full App Overview](docs/full-app-overview.png)
+
 ## ⚡ Quick Start
 
 ### 1. Backend (Realtime Voice Server)
