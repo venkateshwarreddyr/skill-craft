@@ -4,6 +4,11 @@
 
 Fullstack React + Node.js application demonstrating [@x-skills-for-ai/react](https://www.npmjs.com/package/@x-skills-for-ai/react) integration with **realtime voice AI** powered by [xAI Grok Realtime API](https://docs.x.ai/docs/realtime).
 
+## 📸 Screenshots
+
+### Counter View (Default Landing Page)
+![Counter View](docs/counter-view.png)
+
 ## 🚀 Features
 
 - **Voice-Controlled App Switching**: Say \"switch to counter\" or \"open todo\" to navigate apps using skills.
@@ -39,11 +44,6 @@ Fullstack React + Node.js application demonstrating [@x-skills-for-ai/react](htt
 ├── README.md
 └── deploy/                 # Frontend build artifacts
 ```
-
-## 📸 Screenshots
-
-### Counter View (Default Landing Page)
-![Counter View](docs/counter-view.png)
 
 ## ⚡ Quick Start
 
